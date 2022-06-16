@@ -1,3 +1,5 @@
+#create the variables
+#define a function
 def f(t,v):
   m = 0.034
   g = -9.81
